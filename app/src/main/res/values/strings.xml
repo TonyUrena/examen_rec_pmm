@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenFinal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accuracy">Accuracy: %1$s"</string>
+    <string name="category">Category: %s</string>
+    <string name="cost">Cost: %d</string>
+    <string name="item_image">Image: %s</string>
+
+</resources>
